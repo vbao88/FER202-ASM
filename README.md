@@ -70,7 +70,7 @@ db.json                               # JSON Server database
 |-----------|-----------|----------|
 | React | 19 | UI Framework |
 | Vite | 8 | Build Tool |
-| React Router DOM | 6 | Client-side Routing |
+| React Router DOM | 7 | Client-side Routing |
 | Redux Toolkit | 2 | Global State Management |
 | React Redux | 9 | React-Redux bindings |
 | Axios | 1 | HTTP Client |

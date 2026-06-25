@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "studentId": "SE180001",
+      "major": "Software Engineering",
+      "description": "Sinh viên năm 3, đam mê lập trình web và AI",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "gpa": 3.5,
+      "semesterScore": 8.2
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bình",
+      "studentId": "SE180002",
+      "major": "Information Assurance",
+      "description": "Sinh viên năm 2, chuyên ngành Bảo mật thông tin",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "gpa": 3.8,
+      "semesterScore": 9.0
+    },
+    {
+      "id": 3,
+      "name": "Lê Minh Cường",
+      "studentId": "SE180003",
+      "major": "Artificial Intelligence",
+      "description": "Sinh viên năm 4, nghiên cứu Machine Learning",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "gpa": 3.2,
+      "semesterScore": 7.5
+    },
+    {
+      "id": 4,
+      "name": "Phạm Thị Dung",
+      "studentId": "SE180004",
+      "major": "Digital Marketing",
+      "description": "Sinh viên năm 1, yêu thích thiết kế và marketing",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "gpa": 3.6,
+      "semesterScore": 8.7
+    },
+    {
+      "id": 5,
+      "name": "Hoàng Văn Em",
+      "studentId": "SE180005",
+      "major": "Business Administration",
+      "description": "Sinh viên năm 3, kỹ năng lãnh đạo tốt",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "gpa": 2.9,
+      "semesterScore": 6.8
+    }
+  ]
+}
